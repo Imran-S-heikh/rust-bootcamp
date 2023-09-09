@@ -1,7 +1,13 @@
-pub mod example_0;
-pub mod example_1;
+pub mod exercise_0;
+pub mod exercise_1;
+pub mod exercise_2;
+pub mod exercise_3;
+pub mod exercise_4;
 
 fn main() {
-    example_0::main();
-    example_1::main();
+    exercise_0::main();
+    exercise_1::main();
+    exercise_2::main();
+    exercise_3::main();
+    exercise_4::main();
 }
